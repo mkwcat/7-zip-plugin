@@ -1,0 +1,4 @@
+private
+*.dll
+*.lib
+mod_log.txt
